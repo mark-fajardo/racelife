@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <item-no>1</item-no>
+    <category>shorts</category>
+    <price>550</price>
+    <quantity>1498</quantity>
+    <name>RELAX COTTON SHORTS</name>
+    <size>Medium</size>
+    <color>White</color>
+    <descriptions>
+      <description>Made with comfortable, stretchy fabric.</description>
+      <description>Regular-fit that looks great inside and outside of the house.</description>
+      <description>Straight cut with a slightly loose-fitting hem, so they're easy to move around in.</description>
+      <description>Pockets designed to keep your belongings secure.</description>
+      <description>Updated to a sleeker cut, while keeping the comfortable fit and ease of movement as is.</description>
+    </descriptions>
+    <img>img/shorts/Item1.JPG</img>
+  </item>
+  <item>
+    <item-no>2</item-no>
+    <category>shorts</category>
+    <price>650</price>
+    <quantity>1397</quantity>
+    <name>DRY STRETCH EASY SHORTS</name>
+    <size>XL</size>
+    <color>Black</color>
+    <descriptions>
+      <description>Comes with DRY technology.</description>
+      <description>Made with comfortable, stretchy fabric.</description>
+      <description>Regular-fit that looks great inside and outside of the house.</description>
+      <description>Straight cut with a slightly loose-fitting hem, so they're easy to move around in.</description>
+      <description>Pockets designed to keep your belongings secure.</description>
+      <description>Updated to a sleeker cut, while keeping the comfortable fit and ease of movement as is.</description>
+      <description>67% Cotton</description>
+      <description>33% Polyester</description>
+    </descriptions>
+    <img>img/shorts/Item2.JPG</img>
+  </item>
+  <item>
+    <item-no>3</item-no>
+    <category>shorts</category>
+    <price>880</price>
+    <quantity>1498</quantity>
+    <name>CHINO SHORTS</name>
+    <size>Large</size>
+    <color>Cream</color>
+    <descriptions>
+      <description>Limited edition with glow in the dark text</description>
+      <description>Made with comfortable, stretchy fabric.</description>
+      <description>Regular-fit that looks great inside and outside of the house.</description>
+      <description>Straight cut with a slightly loose-fitting hem, so they're easy to move around in.</description>
+      <description>Pockets designed to keep your belongings secure.</description>
+      <description>Updated to a sleeker cut, while keeping the comfortable fit and ease of movement as is.</description>
+    </descriptions>
+    <img>img/shorts/Item3.JPG</img>
+  </item>
+  <item>
+    <item-no>4</item-no>
+    <category>shorts</category>
+    <price>1000</price>
+    <quantity>1700</quantity>
+    <name>CARGO JOGGER PANTS</name>
+    <size>Small</size>
+    <color>Black</color>
+    <descriptions>
+      <description>Fabric Material: 100%Polyester</description>
+      <description>Suitable Type: Fit</description>
+      <description>Style: Basics</description>
+      <description>Occasion: Leisure</description>
+      <description>Pattern: Solid color</description>
+      <description>Thickness: Moderation</description>
+      <description>Product Description: Men's spring and summer pants</description>
+    </descriptions>
+    <img>img/shorts/Item4.JPG</img>
+  </item>
+  <item>
+    <item-no>5</item-no>
+    <category>shorts</category>
+    <price>900</price>
+    <quantity>1600</quantity>
+    <name>LEISURE SWEATPANTS </name>
+    <size>Large</size>
+    <color>Gray and White</color>
+    <descriptions>
+      <description>80% cotton/20% polyester</description>
+      <description>Easy-fit ribbed and elasticized waistband</description>
+      <description>Integrated drawcord</description>
+      <description>Two front jersey slash pockets</description>
+      <description>Rear patch pocket (right side)</description>
+      <description>Encased elastic leg cuffs</description>
+      <description>Herschel branded DNA tab</description>
+      <description>Classic woven label (above back pocket)</description>
+    </descriptions>
+    <img>img/shorts/Item5.JPG</img>
+  </item>
+  <item>
+    <item-no>6</item-no>
+    <category>shorts</category>
+    <price>1500</price>
+    <quantity>1400</quantity>
+    <name>CLASSIC DARK DENIM</name>
+    <size>Medium</size>
+    <color>Black</color>
+    <descriptions>
+      <description>Product Details</description>
+      <description>Super Skinny Fit</description>
+      <description>Zipper Fly</description>
+      <description>Denim</description>
+      <description>Woven</description>
+      <description>Fits true to size, take your normal size</description>
+    </descriptions>
+    <img>img/shorts/Item6.JPG</img>
+  </item>
+</items>

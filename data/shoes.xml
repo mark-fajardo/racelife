@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <item-no>1</item-no>
+    <category>shoes</category>
+    <price>12500</price>
+    <quantity>996</quantity>
+    <name>Comme Des Garçons Play x Converse All Star High-Top</name>
+    <size>US MEN SIZE 10</size>
+    <color>Beige</color>
+    <descriptions>
+      <description>Cotton All Star high-top sneakers from Comme Des Garçons Play x Converse featuring a printed logo, a lace-up front fastening, a branded insole, a round toe and a flat rubber sole.</description>
+      <description>Outer: Cotton 100%</description>
+      <description>Lining: Cotton 100%</description>
+      <description>Sole: Rubber 100%</description>
+    </descriptions>
+    <img>img/shoes/Item1.JPG</img>
+  </item>
+  <item>
+    <item-no>2</item-no>
+    <category>shoes</category>
+    <price>6445</price>
+    <quantity>1196</quantity>
+    <name>Nike Air Force 1 '07 Craft </name>
+    <size>US MEN SIZE 10.5</size>
+    <color>White</color>
+    <descriptions>
+      <description>The radiance lives on in the Nike Air Force 1 '07 Craft, the b-ball icon that puts a fresh spin on what you know best: crisp leather, clean lines and the perfect amount of flash to make you shine.</description>
+      <description>This iteration features a wild, crocodile-inspired texture on the Swoosh.</description>
+    </descriptions>
+    <img>img/shoes/Item2.JPG</img>
+  </item>
+  <item>
+    <item-no>3</item-no>
+    <category>shoes</category>
+    <price>3800</price>
+    <quantity>1397</quantity>
+    <name>ADIDAS CONTINENTAL 80</name>
+    <size>US MEN SIZE 9.5</size>
+    <color>White</color>
+    <descriptions>
+      <description>Retro '80s tennis style inspires the Continental 80's design.</description>
+      <description>These low-top shoes have a nostalgic look with a swooping two-tone stripe on the side and a logo window near the laces.</description>
+      <description>A split rubber cupsole with an EVA insert provides a comfortable, flexible feel.</description>
+      <description>Regular fit</description>
+      <description>Lace closure</description>
+      <description>Leather upper with synthetic leather overlays</description>
+      <description>Split rubber cupsole</description>
+      <description>Enjoy the comfort and performance of OrthoLite® sockliner; Lightweight EVA midsole insert</description>
+      <description>Soft feel</description>
+    </descriptions>
+    <img>img/shoes/Item3.JPG</img>
+  </item>
+  <item>
+    <item-no>4</item-no>
+    <category>shoes</category>
+    <price>2000</price>
+    <quantity>1400</quantity>
+    <name>Nike Stussy x Benassi 'Off Noir' Beach and Pool Slides/Slippers</name>
+    <size>US MEN SIZE 10</size>
+    <color>Black</color>
+    <descriptions>
+      <description>Upper Material Synthetic Leather</description>
+      <description>Sole Material Rubber Sole</description>
+      <description>Heel type Flat heel</description>
+      <description>Colorway Black</description>
+    </descriptions>
+    <img>img/shoes/Item4.JPG</img>
+  </item>
+  <item>
+    <item-no>5</item-no>
+    <category>shoes</category>
+    <price>1595</price>
+    <quantity>1500</quantity>
+    <name>Nike Victori One</name>
+    <size>US MEN SIZE 11.5</size>
+    <color>Gray</color>
+    <descriptions>
+      <description>From the beach to the bleachers, the Nike Victori One perfects a classic, must-have design.</description>
+      <description>Delivering lightweight comfort that's easy to wear, it's updated with softer, more responsive foam.</description>
+      <description>The contoured grip pattern helps cradle and hold your foot in place while the new padded strap feels as good as it looks.</description>
+    </descriptions>
+    <img>img/shoes/Item5.JPG</img>
+  </item>
+  <item>
+    <item-no>6</item-no>
+    <category>shoes</category>
+    <price>1650</price>
+    <quantity>1498</quantity>
+    <name>Nike Offcourt SE</name>
+    <size>US MEN SIZE 9.5</size>
+    <color>Black and White</color>
+    <descriptions>
+      <description>Best for lifestyle</description>
+      <description>Two-tone casual sliders with embossed logo</description>
+      <description>Synthetic upper</description>
+      <description>Synthetic insole</description>
+      <description>Synthetic outsole</description>
+      <description>Slip on style</description>
+      <description>Open toe</description>
+    </descriptions>
+    <img>img/shoes/Item6.JPG</img>
+  </item>
+</items>

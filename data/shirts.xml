@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <item-no>1</item-no>
+    <category>shirts</category>
+    <price>750</price>
+    <quantity>96</quantity>
+    <name>RACELIFE INTERNATIONAL T-SHIRT VERSION 1</name>
+    <size>Small</size>
+    <color>Black</color>
+    <descriptions>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item1.JPG</img>
+  </item>
+  <item>
+    <item-no>2</item-no>
+    <category>shirts</category>
+    <price>750</price>
+    <quantity>999</quantity>
+    <name>RACELIFE INTERNATIONAL T-SHIRT VERSION 2</name>
+    <size>Large</size>
+    <color>Black</color>
+    <descriptions>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item2.JPG</img>
+  </item>
+  <item>
+    <item-no>3</item-no>
+    <category>shirts</category>
+    <price>880</price>
+    <quantity>147</quantity>
+    <name>RACELIFE INTERNATIONAL T-SHIRT VERSION 3 (Limited Edition)</name>
+    <size>Medium</size>
+    <color>Black</color>
+    <descriptions>
+      <description>Limited edition with glow in the dark text</description>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item3.JPG</img>
+  </item>
+  <item>
+    <item-no>4</item-no>
+    <category>shirts</category>
+    <price>1299</price>
+    <quantity>880</quantity>
+    <name>RACELIFE INTERNATIONAL JERSEY VERSION 1</name>
+    <size>Medium</size>
+    <color>Blue</color>
+    <descriptions>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item4.JPG</img>
+  </item>
+  <item>
+    <item-no>5</item-no>
+    <category>shirts</category>
+    <price>1299</price>
+    <quantity>511</quantity>
+    <name>RACELIFE INTERNATIONAL T-SHIRT VERSION 2</name>
+    <size>Large</size>
+    <color>Pink</color>
+    <descriptions>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item5.JPG</img>
+  </item>
+  <item>
+    <item-no>6</item-no>
+    <category>shirts</category>
+    <price>650</price>
+    <quantity>422</quantity>
+    <name>TOXIC SOCIETY LIMITED EDITION TEE</name>
+    <size>Small</size>
+    <color>Black and White</color>
+    <descriptions>
+      <description>100% cotton material with a clean feel that is also soft and comfortable.</description>
+      <description>Designed the rib width of the neckline to be thicker, in order for it to look nice even when worn on its own.</description>
+      <description>Used an advanced method known as blind hem stitching for the cuffs and hem, so it is extra comfortable and the seams do not stand out.</description>
+      <description>Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.</description>
+    </descriptions>
+    <img>img/shirts/Item6.JPG</img>
+  </item>
+</items>
